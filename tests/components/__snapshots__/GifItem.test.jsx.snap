@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test GifItem.jsx should render GifItem.jsx 1`] = `
+<div>
+  <div
+    class="card animate__animated animate__heartBeat"
+  >
+    <img
+      alt="saitama"
+      src="https://i.gifer.com/no.gif"
+    />
+    <p
+      class="p"
+    >
+      <b>
+        saitama
+      </b>
+    </p>
+  </div>
+</div>
+`;
