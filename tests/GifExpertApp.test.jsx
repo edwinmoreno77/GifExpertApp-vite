@@ -12,10 +12,6 @@ describe('GifExpertApp test', () => {
         const { container } = render(<GifExpertApp />);
         expect(container).toMatchSnapshot();
         // screen.debug();
-
-
-    }
-    );
-
+    });
 
 });
