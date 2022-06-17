@@ -33,7 +33,7 @@ describe('<GifGrid/> test ', () => {
 
     })
 
-    test('should display items when images are loaded from useFetch', () => {
+    test('should display items when images are loaded from useFetchGifs', () => {
         useFetchGifs.mockReturnValue({
             images: [
                 {
