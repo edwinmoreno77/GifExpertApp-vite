@@ -1,5 +1,4 @@
 import { render, screen } from "@testing-library/react";
-import { string } from "prop-types";
 import { GifItem } from "../../src/components/GifItem";
 
 

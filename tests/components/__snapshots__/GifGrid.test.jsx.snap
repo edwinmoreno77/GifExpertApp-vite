@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GifGrid/> test  should render <GifGrid/> 1`] = `
+<div>
+  <h2
+    class="animate__animated animate__fadeIn"
+  />
+  <h2
+    class="animate__animated animate__flash"
+  >
+    Loading...
+  </h2>
+  <div
+    class="card-grid"
+  />
+</div>
+`;
