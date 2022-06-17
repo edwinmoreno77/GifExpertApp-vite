@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GifExpertApp test should render correctly 1`] = `
+<div>
+  <div>
+    <h1>
+      Gif Expert App
+    </h1>
+    <form
+      aria-label="form"
+    >
+      <input
+        placeholder="Search Gif"
+        type="text"
+        value=""
+      />
+    </form>
+    <ol>
+      <h2
+        class="animate__animated animate__fadeIn"
+      >
+        Goku
+      </h2>
+      <h2
+        class="animate__animated animate__flash"
+      >
+        Loading...
+      </h2>
+      <div
+        class="card-grid"
+      />
+    </ol>
+  </div>
+</div>
+`;
